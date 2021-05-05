@@ -1,0 +1,90 @@
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 14°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 13°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 13°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 13°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
+=========================================== 
+La ville choisi est : Domagné
+La météo actuelle est : Clair, petite description : ciel clair
+Le taux d'humidité est de : 44% 
+La température actuelle est de : 13°C 
+La température minimale est de : 13°C 
+La température maximale est de : 14°C 
+La température ressenti est de : 12°C
+
